@@ -5,3 +5,9 @@ Carrera: Ingeniería de Sistemas
 Semestre: 4to
 Materia: Actualización Tecnológica
 Paralelo: A
+Tecnologías y herramientas utilizadas:
+
+- Git
+- GitHub
+- Git Bash
+- Visual Studio Code
