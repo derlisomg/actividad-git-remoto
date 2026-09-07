@@ -1,0 +1,8 @@
+DATOS DEL ESTUDIANTE
+Nombre completo: Josu
+Carrera: Ingeniería de Sistemas
+Semestre: 4to
+Materia: Actualización Tecnológica
+Paralelo: A
+Gestor de versiones utilizado: Git
+Plataforma de repositorios: GitHub

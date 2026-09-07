@@ -1,0 +1,17 @@
+APORTE DEL ESTUDIANTE
+
+Nombre: Josu
+Carrera: Ingeniería de Sistemas
+Semestre: 4to
+Materia: Actualización Tecnológica
+Paralelo: A
+Tecnologías y herramientas utilizadas:
+
+- Git
+- GitHub
+- Git Bash
+- Visual Studio Code
+Mi aporte al proyecto:
+
+Estoy aplicando los conocimientos adquiridos sobre Git, GitHub,
+ramas, Forking Workflow y Pull Request.
