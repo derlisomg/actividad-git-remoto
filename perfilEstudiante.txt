@@ -1,0 +1,6 @@
+DATOS DEL ESTUDIANTE
+Nombre completo: Josu
+Carrera: Ingeniería de Sistemas
+Semestre: 4to
+Materia: Actualización Tecnológica
+Paralelo: A
