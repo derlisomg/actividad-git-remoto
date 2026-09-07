@@ -1,0 +1,5 @@
+HERRAMIENTAS TECNOLÓGICAS
+Sistema operativo que utiliza: windows 10
+Editor de código: visual
+Lenguaje de programación conocido: c++
+Herramienta que desea aprender: commits
